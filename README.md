@@ -1,4 +1,6 @@
 # Countdown Timer
+https://sehaj97.github.io/js-timebomb/
+
 
 In this activity, you will create a timer that will count down from 5 and display a message when it hits 0. 
 
@@ -21,4 +23,3 @@ In this activity, you will create a timer that will count down from 5 and displa
 * You can also refer to the MDN Web Docs on [setInterval()](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) and [clearInterval()](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval) for more information.
 
 ---
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
